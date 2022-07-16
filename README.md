@@ -11,3 +11,4 @@
 #### Exercícios
 
 - Exercício 1: [Primeiro repositório GIT](https://github.com/GleristonCastro/Dio/tree/main/Primeiro%20Exerc%C3%ADcio)
+- Desafio 1: [Recriando a página inicial do Instagram](https://github.com/GleristonCastro/Dio/tree/main/instagram_login)
