@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #222;
+    color: gray;
+}
+section{
+    background-color: #00000017;
+    width: 50%;
+    height: 20vh;
+    margin: auto;
+}
+h1{
+    font-size: 50px;
+    color: darksalmon;
+}
+
+h1, h2, p{
+    margin-left: 20px;
+}
+
+#counter{
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    width: 500px;
+}
+
+span {
+    font-size: 50px;
+    margin: 0 10px;
+    width: 80px;
+    text-align: center;
+}
+
+button{
+    width: 38px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darksalmon;
+}
+
+.statusColor{
+    color: rgb(116, 116, 197);
+}
+.statusGreen{
+    color: rgb(73, 148, 73);
+}
+.statusRed{
+    color: rgb(155, 75, 75);
+}
